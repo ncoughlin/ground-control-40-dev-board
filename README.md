@@ -83,3 +83,5 @@ The design consists of three PCB's.
 ## Customization
 
 If you wish to modify this design, I have included the Kicad files in the `kicad` directory. And the Fusion 360 files in the `fusion` directory.
+
+If you experience any errors opening these files due to missing footprints or other dependencies please create an issue on this repository and I will do my best to help you.
