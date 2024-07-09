@@ -51,6 +51,9 @@ CFX keycaps available from Chosfox and various other vendors.
 
 - Soldering Iron
 - Hot Air Gun (for diodes)
+- 150 grit sandpaper
+- Soldering wire
+- Soldering paste
 
 ### Order of Operations
 
@@ -62,10 +65,14 @@ Main Plate: Hold the Alps multi-switch, horizontal pin socket and board to board
 
 1. Install the parts that belong to each plate onto them before you attempt to combine the plates or install Choc switches.
 
-2. After each plate is prepared, assemble the plates together. ⚠ Ensure that the stabilizers etc are all installed or else you will have to disassemble again to install them.
+2. After each plate is prepared, assemble the Switch and Main plates together.  You will want to place 2.8-3mm spacers between the switch and main plate. I used cut up pieces of a silicone pad and glued them in place on the main plate.
 
 3. Using a piece of 150 grit sandpaper, sand the left and right sides of each switch hole on the mounting plate. This will ensure that the Choc v1 switches can snap into place without damaging them (their little clips are more fragile than a standard switch)
 
-4. Install the switches one at a time. Start in the corners and then middle. Use an alternating pattern to give equal pressure.
+4. Install the stabilizers in the mounting plate.
+
+5. Install the switches into mounting plate one at a time. Start in the corners and then middle. Use an alternating pattern to give equal pressure.
 
 ## Recommended KeyMap
+
+![keymap](./images/keymap_concept_v1.jpg)
