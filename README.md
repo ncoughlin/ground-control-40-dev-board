@@ -22,7 +22,7 @@ The Ground Control 40 Dev Board is an **open source** 40% ortho-linear keyboard 
 
 ## Required Parts
 
-⚠ Warning: Do not attempt to use any keycap profile other than CFX. It will not work. The spacing is designed specifically for this profile (which is perfectly square, not rectangular).
+⚠ Warning: Do not attempt to use any keycap profile other than CFX. It will not work. The spacing is designed specifically for this profile (which is square, not rectangular).
 
 - 45 x Choc v1 switches
 - 45 x Choc v1 hotswap sockets
@@ -34,16 +34,19 @@ The Ground Control 40 Dev Board is an **open source** 40% ortho-linear keyboard 
 - 14 x Mill-Max 1440-4-00-15-00-00-03-0 nail head pins
 - 14 x Harwin H3185-05 Pin Socket
 - 2 x Samtec SQT-110-01-FM-S-RA 1x10 horizontal pin socket
+- 2.8-3mm thick silicone pad or other spacer of this thickness
 
 ## Ordering
 
-PCB's can be ordered through JLCPCB. The minimum order volume is 5 pieces per board, and there are three boards. The cost is actually quite reasonable.
+PCB's are ordered using the gerber files in the `gerbers` directory. 
 
-Electronics components can all be found on Mouser.
+PCB's can be ordered through JLCPCB. The minimum order volume is 5 pieces per board, and there are three boards. The cost is actually quite reasonable.
 
 Choc v1 switches available through various vendors depending on your preferred flavor.
 
 CFX keycaps available from Chosfox and various other vendors.
+
+Additional electronics components can all be found on Mouser. Search using the part numbers listed above.
 
 ## Assembly
 
@@ -59,9 +62,9 @@ CFX keycaps available from Chosfox and various other vendors.
 
 The design consists of three PCB's.
 
-Mounting Plate: Has no parts to assemble
-Switch Plate: Holds the hotswap sockets, stabilizers, diodes and nail-head pins
-Main Plate: Hold the Alps multi-switch, horizontal pin socket and board to board pin sockets
+**Mounting Plate**: Stabilizers and Switches are installed here
+**Switch Plate**: Holds the hotswap sockets, diodes and nail-head pins
+**Main Plate**: Hold the Alps multi-switch, horizontal pin socket and board to board pin sockets
 
 1. Install the parts that belong to each plate onto them before you attempt to combine the plates or install Choc switches.
 
@@ -76,3 +79,7 @@ Main Plate: Hold the Alps multi-switch, horizontal pin socket and board to board
 ## Recommended KeyMap
 
 ![keymap](./images/keymap_concept_v1.jpg)
+
+## Customization
+
+If you wish to modify this design, I have included the Kicad files in the `kicad` directory. And the Fusion 360 files in the `fusion` directory.
