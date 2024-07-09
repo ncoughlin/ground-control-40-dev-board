@@ -63,7 +63,9 @@ Additional electronics components can all be found on Mouser. Search using the p
 The design consists of three PCB's.
 
 **Mounting Plate**: Stabilizers and Switches are installed here
+
 **Switch Plate**: Holds the hotswap sockets, diodes and nail-head pins
+
 **Main Plate**: Hold the Alps multi-switch, horizontal pin socket and board to board pin sockets
 
 1. Install the parts that belong to each plate onto them before you attempt to combine the plates or install Choc switches.
