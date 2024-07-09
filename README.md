@@ -1,5 +1,7 @@
 # Ground Control 40 Dev Board
 
+⭐ If you appreciate this project, please consider giving it a star.
+
 The Ground Control 40 Dev Board is an **open source** 40% ortho-linear keyboard shell with exposed pin header, designed for rapid prototyping with any micro-controller of your choice.
 
 ![ground control 40 dev > overhead](./images/ground_control_40_dev_1_1000px.jpg)
